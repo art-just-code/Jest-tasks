@@ -1,0 +1,14 @@
+{
+    "name": "begin",
+    "version": "1.0.0",
+    "description": "test",
+    "main": "function.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "grebnik89@gmail.com",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
